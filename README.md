@@ -8,7 +8,7 @@ Modify existing phone numbers.
 Search for names in the phonebook.
 The data is stored in a text file (phonebook.txt), and all modifications are reflected in the file.
 
-Features \\
+Features 
 Add a Contact: You can add new contacts with names and phone numbers.
 Update a Contact: Modify the phone number of an existing contact.
 Search for a Contact: Search by name to display the associated phone number.
